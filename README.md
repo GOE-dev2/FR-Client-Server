@@ -3,7 +3,7 @@
 **Module:** 5COSC022W — Client-Server Architectures  
 **Title:** Smart Campus Sensor & Room Management API  
 **Technology:** Java 11+, JAX-RS 2.x (Jersey 2.41), Grizzly HTTP Server  
-**Storage:** In-memory `ConcurrentHashMap` — no database  
+ 
 
 ---
 
